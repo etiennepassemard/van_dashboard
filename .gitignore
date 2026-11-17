@@ -1,0 +1,8 @@
+# Reglages personnels : cles Victron, adresses, noms Bluetooth
+config.h
+
+# Anciens apercus
+/apercu_*.png
+
+.DS_Store
+build/
